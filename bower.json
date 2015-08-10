@@ -1,0 +1,13 @@
+{
+    "name": "feather-icons",
+    "version": "1.0.0",
+    "main": [
+        "feather-webfont/feather.css",
+		"feather-webfont/fonts/feather-webfont.eot",
+		"feather-webfont/fonts/feather-webfont.svg",
+		"feather-webfont/fonts/feather-webfont.ttf",
+		"feather-webfont/fonts/feather-webfont.woff"
+    ],
+    "ignore": [
+    ]
+}
